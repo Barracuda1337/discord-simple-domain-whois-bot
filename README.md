@@ -67,5 +67,5 @@ module.exports = {
 
 ## Website Used
 
-- Whois API: [Site](https://whoisjson.com/)
-- Icon.horse: [Site](https://icon.horse/)
+- Whois API: [Site](https://whoisjson.com/) / 500 requests free per month
+- Icon.horse: [Site](https://icon.horse/) / 1000 requests free per month
