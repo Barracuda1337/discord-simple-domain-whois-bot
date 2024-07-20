@@ -60,3 +60,8 @@ module.exports = {
 - parse-favicon: 7.0.1 or higher
 - split-array: 1.0.1 or higher
 - whois: 2.14.2 or higher
+
+## Website Used
+
+- Whois API: [Site](https://whoisjson.com/)
+- Icon.horse: [Site](https://icon.horse/)
