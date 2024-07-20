@@ -24,7 +24,7 @@ npm run start
 
 ## License
 
-[ISC](https://choosealicense.com/licenses/isc/) © [Custyy](https://github.com/barracuda1337)
+[ISC](https://choosealicense.com/licenses/isc/) © Substructure [Custyy](https://github.com/Custyy/discord.js-v14-bot-template)
 
 ## 👀 Example config.js file
 
