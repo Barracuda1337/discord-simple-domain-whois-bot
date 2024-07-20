@@ -2,7 +2,7 @@ const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, Modal, TextInputBuilder, 
 const whois = require('whois')
 const splitArray = require('split-array');
 const axios = require("axios");
-
+const setting = require("../config.js")
 exports.run = async (client, message, args) => {
 
   let domain = args.join(" ")
@@ -17,7 +17,7 @@ exports.run = async (client, message, args) => {
         url: 'https://whoisjson.com/api/v1/whois',
         params: {domain: domain},
         headers: {
-          'Authorization': 'Token=xxxxxx'
+          'Authorization': `Token=${setting.apis.key}`
         }
       };
        
