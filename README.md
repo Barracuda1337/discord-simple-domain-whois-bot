@@ -42,6 +42,10 @@ module.exports = {
             useNewUrlParser: true,
             useUnifiedTopology: true,
         }
+    },
+
+    apis: {
+        key: 'xxxxx',
     }
 }
 ```
