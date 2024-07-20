@@ -59,4 +59,4 @@ module.exports = {
 - mongoose: 7.4.0 or higher
 - parse-favicon: 7.0.1 or higher
 - split-array: 1.0.1 or higher
-- whois: 2.14.2"
+- whois: 2.14.2 or higher
