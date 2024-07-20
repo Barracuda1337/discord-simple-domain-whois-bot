@@ -1,6 +1,6 @@
 # ✨ Discord.js v14 Simple Domain Whois Bot
 
-A template for discord.js v14 bots.
+A template for discord.js v14 Simple Domain Whois bots.
 
 ## ➡️ Installation
 
